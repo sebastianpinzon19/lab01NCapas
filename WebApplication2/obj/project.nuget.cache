@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZwRbUq7GwCWZIz1UtZqbFx7FDRTcC0d7yuJ6NdM9MRXKvGSbuSbLaeEEMuATL31zXnznYpFx99WT+nMYwmcbrg==",
+  "success": true,
+  "projectFilePath": "D:\\lab01NCapas\\orders\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.7\\microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
