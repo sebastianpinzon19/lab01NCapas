@@ -63,3 +63,11 @@ D:\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
 D:\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.dll
 D:\lab01NCapas\orders\DAL\obj\Debug\net7.0\refint\DAL.dll
 D:\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.pdb

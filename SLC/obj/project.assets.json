@@ -2050,7 +2050,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "ConsoleApptestDal": "1.0.0",
           "DAL": "1.0.0",
           "Entities": "1.0.0"
         },
@@ -2059,20 +2058,6 @@
         },
         "runtime": {
           "bin/placeholder/BLL.dll": {}
-        }
-      },
-      "ConsoleApptestDal/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "DAL": "1.0.0",
-          "Entities": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ConsoleApptestDal.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ConsoleApptestDal.dll": {}
         }
       },
       "DAL/1.0.0": {
@@ -6187,11 +6172,6 @@
       "path": "../BLL/BLL.csproj",
       "msbuildProject": "../BLL/BLL.csproj"
     },
-    "ConsoleApptestDal/1.0.0": {
-      "type": "project",
-      "path": "../ConsoleApptestdal/ConsoleApptestDal.csproj",
-      "msbuildProject": "../ConsoleApptestdal/ConsoleApptestDal.csproj"
-    },
     "DAL/1.0.0": {
       "type": "project",
       "path": "../DAL/DAL.csproj",
@@ -6206,7 +6186,6 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "BLL >= 1.0.0",
-      "DAL >= 1.0.0",
       "Entities >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Core >= 2.2.5"
     ]
@@ -6246,9 +6225,6 @@
           "projectReferences": {
             "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\lab01NCapas\\BLL\\BLL.csproj": {
               "projectPath": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\lab01NCapas\\BLL\\BLL.csproj"
-            },
-            "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\lab01NCapas\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\lab01NCapas\\DAL\\DAL.csproj"
             },
             "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\lab01NCapas\\entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\sebas\\OneDrive\\Documents\\GitHub\\lab01NCapas\\entities\\Entities.csproj"

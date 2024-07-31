@@ -9,7 +9,6 @@ C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\entities\obj\De
 C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\entities\obj\Debug\net7.0\refint\entities.dll
 C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\entities\obj\Debug\net7.0\entities.pdb
 C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\entities\obj\Debug\net7.0\ref\entities.dll
-C:\Users\Aprendiz\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\entities.csproj.AssemblyReference.cache
 C:\Users\Aprendiz\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\entities.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Aprendiz\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\entities.AssemblyInfoInputs.cache
 C:\Users\Aprendiz\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\entities.AssemblyInfo.cs
@@ -39,3 +38,18 @@ D:\lab01NCapas\orders\entities\obj\Debug\net7.0\Entities.dll
 D:\lab01NCapas\orders\entities\obj\Debug\net7.0\refint\Entities.dll
 D:\lab01NCapas\orders\entities\obj\Debug\net7.0\Entities.pdb
 D:\lab01NCapas\orders\entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\entities\bin\Debug\net7.0\Entities.dll
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\entities\bin\Debug\net7.0\Entities.dll
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\Entities.dll
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\Entities.pdb
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\entities\obj\Debug\net7.0\ref\Entities.dll

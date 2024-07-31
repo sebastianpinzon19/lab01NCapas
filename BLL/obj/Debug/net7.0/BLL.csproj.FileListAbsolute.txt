@@ -3,3 +3,13 @@ D:\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.edit
 D:\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
 D:\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
 D:\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Desktop\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
