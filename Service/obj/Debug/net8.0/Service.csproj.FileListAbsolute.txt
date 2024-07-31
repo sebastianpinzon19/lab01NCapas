@@ -1,0 +1,12 @@
+D:\lab01NCapas\orders\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\lab01NCapas\orders\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab01NCapas\orders\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\lab01NCapas\orders\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\lab01NCapas\orders\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\lab01NCapas\orders\Service\obj\Debug\net8.0\Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\Service\obj\Debug\net8.0\Service.MvcApplicationPartsAssemblyInfo.cache
