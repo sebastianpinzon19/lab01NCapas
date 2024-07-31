@@ -1,0 +1,5 @@
+D:\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\lab01NCapas\orders\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache

@@ -1,0 +1,65 @@
+C:\laboratorio01NCapas\orders\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\laboratorio01NCapas\orders\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\laboratorio01NCapas\orders\DAL\bin\Debug\net7.0\DAL.dll
+C:\laboratorio01NCapas\orders\DAL\bin\Debug\net7.0\DAL.pdb
+C:\laboratorio01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\laboratorio01NCapas\orders\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\laboratorio01NCapas\orders\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\laboratorio01NCapas\orders\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\laboratorio01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\laboratorio01NCapas\orders\DAL\obj\Debug\net7.0\DAL.sourcelink.json
+C:\laboratorio01NCapas\orders\DAL\obj\Debug\net7.0\DAL.dll
+C:\laboratorio01NCapas\orders\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\laboratorio01NCapas\orders\DAL\obj\Debug\net7.0\DAL.pdb
+C:\laboratorio01NCapas\orders\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\laboratorio01NCapas\orders\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\bin\Debug\net7.0\entities.dll
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\bin\Debug\net7.0\entities.pdb
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.Up2Date
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\Aprendiz\Desktop\laboratorio01NCapas\lab01NCapas\orders\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.pdb
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.dll
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.pdb
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\bin\Debug\net7.0\DAL.dll
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\bin\Debug\net7.0\DAL.pdb
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\bin\Debug\net7.0\Entities.dll
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\bin\Debug\net7.0\Entities.pdb
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.Up2Date
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\4 trim\vladimir\lab01NCapas\orders\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.dll
+D:\lab01NCapas\orders\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\lab01NCapas\orders\DAL\obj\Debug\net7.0\DAL.pdb

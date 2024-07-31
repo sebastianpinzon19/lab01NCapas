@@ -1,0 +1,13 @@
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\bin\Debug\net8.0\SLC.deps.json
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\bin\Debug\net8.0\SLC.dll
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\bin\Debug\net8.0\SLC.pdb
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\obj\Debug\net8.0\SLC.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\obj\Debug\net8.0\SLC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\obj\Debug\net8.0\SLC.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\obj\Debug\net8.0\SLC.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\obj\Debug\net8.0\SLC.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\obj\Debug\net8.0\SLC.sourcelink.json
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\obj\Debug\net8.0\SLC.dll
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\obj\Debug\net8.0\refint\SLC.dll
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\obj\Debug\net8.0\SLC.pdb
+C:\Users\sebas\OneDrive\Documents\GitHub\lab01NCapas\SLC\obj\Debug\net8.0\ref\SLC.dll

@@ -1,0 +1,15 @@
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestdal.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestdal.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestdal.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestdal.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestDal.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 trim\vladimir\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestDal.csproj.AssemblyReference.cache
+D:\4 trim\vladimir\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestDal.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 trim\vladimir\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestDal.AssemblyInfoInputs.cache
+D:\4 trim\vladimir\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestDal.AssemblyInfo.cs
+D:\4 trim\vladimir\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestDal.csproj.CoreCompileInputs.cache
+D:\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestDal.csproj.AssemblyReference.cache
+D:\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestDal.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestDal.AssemblyInfoInputs.cache
+D:\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestDal.AssemblyInfo.cs
+D:\lab01NCapas\orders\ConsoleApptestdal\obj\Debug\net7.0\ConsoleApptestDal.csproj.CoreCompileInputs.cache
